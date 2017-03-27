@@ -1,0 +1,4 @@
+127.0.0.1 - - [09/Jan/2017:21:02:54 +0800] "GET / HTTP/1.1" 200 1673 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:42.0) Gecko/20100101 Firefox/42.0"
+127.0.0.1 - - [09/Jan/2017:21:02:54 +0800] "GET /static/favicon.ico HTTP/1.1" 200 1150 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:42.0) Gecko/20100101 Firefox/42.0"
+127.0.0.1 - - [09/Jan/2017:21:02:57 +0800] "GET / HTTP/1.1" 200 1674 "http://127.0.0.1/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:42.0) Gecko/20100101 Firefox/42.0"
+127.0.0.1 - - [09/Jan/2017:21:03:00 +0800] "GET /auth/login HTTP/1.1" 200 1378 "http://127.0.0.1/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:42.0) Gecko/20100101 Firefox/42.0"
